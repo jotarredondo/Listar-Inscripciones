@@ -6,4 +6,4 @@ El proyecto está implementado bajo el concepto de capas.
 
 Realizando una base de datos, DTO, DAO, FACADE y vistas en JSP.
 
-Tecnologías : MySql, Java 13, JSP, JSTL. 
+Tecnologías : MySql, JDBC Template, Java 13, JSP, JSTL. 
